@@ -1,7 +1,7 @@
-[![MasterHead](https://i.gifer.com/1kc1.gif)
-<h1 align="center">Hi 👋, I'm Edward Ortega</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://ww25.rishavchanda.io)
+<h1 align="center">Hola 👋, yo soy Edward Ortega</h1>
 <h3 align="center">Estudiante de Ingeniería Electronica y Telecomunicación</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edfeortega&label=Profile%20views&color=0e75b6&style=flat" alt="edfeortega" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **edwardortega478@gmail.com**
 
-- 📄 Know about my experiences [engineering technician broadcast](engineering technician broadcast)
+- 📄 Know about my experiences [engineering technician broadcast]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
