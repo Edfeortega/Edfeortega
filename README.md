@@ -1,4 +1,4 @@
-![1kc1](https://github.com/Edfeortega/Edfeortega/assets/134664732/847eede2-cd99-4788-9575-fe5698aedb48)
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Edfeortega/Edfeortega/assets/134664732/9a149b93-a94f-47db-a609-ccf5b0ddf0c6)
 <h1 align="center">Hola 👋, yo soy Edward Ortega</h1>
 <h3 align="center">Estudiante de Ingeniería Electronica y Telecomunicación</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
