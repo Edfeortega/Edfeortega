@@ -1,8 +1,7 @@
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/Edfeortega/Edfeortega/assets/134664732/9a149b93-a94f-47db-a609-ccf5b0ddf0c6)
 <h1 align="center">Hola 👋, yo soy Edward Ortega</h1>
 <h3 align="center">Estudiante de Ingeniería Electronica y Telecomunicación</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-![3odR](https://github.com/Edfeortega/Edfeortega/assets/134664732/535a8cfa-df42-43be-ae4c-d8750aa3bbd0)
+<img align="right" alt="Coding" width="400" src="https://github.com/Edfeortega/Edfeortega/assets/134664732/535a8cfa-df42-43be-ae4c-d8750aa3bbd0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edfeortega&label=Profile%20views&color=0e75b6&style=flat" alt="edfeortega" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edfeortega" alt="edfeortega" /></a> </p>
